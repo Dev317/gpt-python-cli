@@ -1,0 +1,8 @@
+main.py
+setup.py
+pyopengpt_cli.egg-info/PKG-INFO
+pyopengpt_cli.egg-info/SOURCES.txt
+pyopengpt_cli.egg-info/dependency_links.txt
+pyopengpt_cli.egg-info/entry_points.txt
+pyopengpt_cli.egg-info/requires.txt
+pyopengpt_cli.egg-info/top_level.txt
